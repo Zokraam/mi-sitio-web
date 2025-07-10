@@ -1,8 +1,12 @@
-body {
-  font-family: Arial, sans-serif;
+* {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-image: url(./img/fondoo.jpg);
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url(../img/fondoo.jpg);
   background-size: 100%;
   color: #333;
 }
