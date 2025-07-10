@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url(../img/fondoo.jpg);
+  background-image: url(./img/fondoo.jpg);
   background-size: 100%;
   color: #333;
 }
